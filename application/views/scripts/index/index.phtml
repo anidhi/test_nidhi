@@ -1,0 +1,23 @@
+<table border="1">
+	<tr>
+	    <th>id</th> 
+		<th>Name</th>
+		<th>website</th>
+		<th>Delete</th>
+	
+	</tr>
+
+<?php foreach($this->person as $report){?>
+<tr>    <td> <?php echo $report->getId();?></td>
+        <td> <?php echo $report->getName();?></td>
+		<td> <?php echo $report->getWebsite();?></td>
+		<td> <a href="/index/client/id/<?php echo $report->getId();?>">Delete</a></td>
+		
+		
+        
+</tr>   
+ <?php }?>
+</table>
+<a href="/index/add">add </a>
+
+

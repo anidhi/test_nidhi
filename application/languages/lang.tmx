@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" ?>
+    <!DOCTYPE tmx SYSTEM "tmx14.dtd">
+    <tmx version="1.4">
+       <header creationtoolversion="1.0.0" datatype="winres" segtype="sentence"
+               adminlang="en-us" srclang="de-at" o-tmf="abc"
+               creationtool="XYZTool" >
+       </header>
+       <body>
+           <tu tuid='Name'>
+               <tuv xml:lang="fr"><seg>Nachricht1</seg></tuv>
+               <tuv xml:lang="en"><seg>Name</seg></tuv>
+               <tuv xml:lang="de"><seg>Benutzername</seg></tuv>
+                <tuv xml:lang="es"><seg>Aficiones</seg></tuv>
+           </tu>
+           
+        <tu tuid='website'>
+               <tuv xml:lang="fr"><seg>site Web</seg></tuv>
+               <tuv xml:lang="en"><seg>website</seg></tuv>
+               <tuv xml:lang="de"><seg>Webseite</seg></tuv>
+                <tuv xml:lang="es"><seg>sitio web</seg></tuv>
+           </tu>
+          
+           
+           </body>
+    </tmx>
+    
