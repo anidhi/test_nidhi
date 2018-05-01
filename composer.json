@@ -1,9 +1,6 @@
 {
     "name": "project A",    
     "description": "public project A requiring private project B",
-    "require": {
-        "test_nidhi": "dev-master"
-    },
     "repositories": [
         {
             "type": "vcs",
