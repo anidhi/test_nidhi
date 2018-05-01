@@ -1,6 +1,7 @@
 {
-    "name": "project A",    
-    "description": "public project A requiring private project B",
+    "require": {
+        "test_nidhi": "test_nidhi"
+    },
     "repositories": [
         {
             "type": "vcs",
