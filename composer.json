@@ -2,7 +2,7 @@
     "name": "project A",    
     "description": "public project A requiring private project B",
     "require": {
-        "vendor/my-private-repo": "dev-master"
+        "test_nidhi": "dev-master"
     },
     "repositories": [
         {
