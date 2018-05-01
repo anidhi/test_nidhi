@@ -1,0 +1,13 @@
+{
+    "name": "project A",    
+    "description": "public project A requiring private project B",
+    "require": {
+        "vendor/my-private-repo": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:nidhisingh18/test_nidhi.git"
+        }
+    ]
+}
