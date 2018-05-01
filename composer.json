@@ -1,6 +1,6 @@
 {
     "require": {
-        "test_nidhi": "test_nidhi"
+        "test_nidhi": "master"
     },
     "repositories": [
         {
