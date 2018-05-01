@@ -1,5 +1,27 @@
 {
+    "name": "nidhisingh18/test_nidhi",
+    "description": "just for test",
+    "keywords": [
+        "unit testing",
+        "test"
+    ],
+    "homepage": "http://kenjis.github.io/ci-phpunit-test/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nidhi Singh",
+            "homepage": "https://github.com/nidhisingh18"
+        }
+    ],
+    "support": {
+        "forum": "http://forum.codeigniter.com/thread-61725.html"
+    },
     "require": {
-        "test_nidhi": "*"
+        "php": ">=5.4.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "*"
+        }
     }
 }
