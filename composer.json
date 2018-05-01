@@ -19,10 +19,5 @@
     "require": {
         "php": ">=5.4.0"
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "*"
-        }
-    },
     "minimum-stability": "dev"
 }
