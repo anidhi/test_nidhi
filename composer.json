@@ -1,11 +1,5 @@
 {
     "require": {
         "test_nidhi": "*"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "git@github.com:nidhisingh18/test_nidhi.git"
-        }
-    ]
+    }
 }
